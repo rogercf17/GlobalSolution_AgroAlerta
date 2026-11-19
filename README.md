@@ -1,6 +1,18 @@
 # 🌱 AgroAlerta + AgroVigia
 ### Monitoramento Inteligente do Campo
 
+## 👨‍💻 Desenvolvedores
+
+**Artur Alves Tenca - RM555271**
+**João Pedro Signor Avelar - RM558375**
+**Roger Cardoso Ferreira - RM557230**
+
+**Turma: 3ESPW**
+
+Projeto acadêmico desenvolvido para a FIAP — Global Solution 2026.
+
+**Tema:** AgroAlerta + AgroVigia — Monitoramento Inteligente do Campo.
+
 ## 📌 Sobre o Projeto
 
 O **AgroAlerta + AgroVigia** é uma solução de monitoramento inteligente voltada ao agronegócio, desenvolvida com o objetivo de auxiliar produtores rurais na identificação preventiva de condições ambientais que possam prejudicar suas plantações.
@@ -326,15 +338,3 @@ O projeto também demonstra a aplicação prática de conceitos de:
 - Programação assíncrona.
 - Testes automatizados.
 - Documentação de APIs.
-
-## 👨‍💻 Desenvolvedores
-
-**Artur Alves Tenca - RM555271**
-**João Pedro Signor Avelar - RM558375**
-**Roger Cardoso Ferreira - RM557230**
-
-**Turma: 3ESPW**
-
-Projeto acadêmico desenvolvido para a FIAP — Global Solution 2026.
-
-**Tema:** AgroAlerta + AgroVigia — Monitoramento Inteligente do Campo.

@@ -3,8 +3,8 @@
 
 ## 👨‍💻 Desenvolvedores
 
-**Artur Alves Tenca - RM555271**
-**João Pedro Signor Avelar - RM558375**
+**Artur Alves Tenca - RM555271**\
+**João Pedro Signor Avelar - RM558375**\
 **Roger Cardoso Ferreira - RM557230**
 
 **Turma: 3ESPW**
